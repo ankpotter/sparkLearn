@@ -2,7 +2,7 @@
 Learning spark with Python
 
 File -> Data
-friends-by-age.py -> fakefriends.csv
+friends-by-age.py -> fakefriends.csv  
 min-temperatures -> 1800.csv
 
 
